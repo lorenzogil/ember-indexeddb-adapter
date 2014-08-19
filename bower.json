@@ -1,13 +1,13 @@
 {
   "name": "ember-indexeddb-adapter",
-  "version": "0.6.1",
+  "version": "0.7.0",
   "main": [
     "dist/ember_indexeddb_adapter.js"
   ],
   "dependencies": {
-    "jquery": "^1.11.1",
-    "ember": "1.5.1",
-    "ember-data": "1.0.0-beta.8"
+    "jquery": "~1.9",
+    "ember": "~1",
+    "ember-data": "1.0.0-beta.7"
   },
   "devDependencies": {
     "qunit": ""
